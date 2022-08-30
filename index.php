@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
+    
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,7 +18,7 @@
                 <h2>ESCUELA PROFESIONAL DE INGENIERIA INFORMATICA Y DE SISTEMAS</h2>
             </center>
             <h3 class="pb-3 pt-5">Agregar Archivos</h3>
-            <!-- Para Agregar CSV -->
+            <!-- Para Agregar CSV continuamos -->
             <div class="col-6 pb-3">
                 <div class="mb-3">
                     <form action="index.php" method="post" enctype="multipart/form-data">
